@@ -22,7 +22,7 @@ const Navbar = () => {
 
 
     return (
-        <header className="sticky top-0 px-8 py-8 sm:px-10 sm:py-14 ">
+        <header className="bg-very-light-grey  sticky top-0 px-8 py-8 sm:px-10 sm:py-14 shadow-lg z-10">
 
             {/* Mobile Nav */}
             <nav className="sm:hidden  flex justify-between items-center">

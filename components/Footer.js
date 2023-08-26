@@ -7,7 +7,7 @@ import { BsGithub, BsTwitter, BsLinkedin } from 'react-icons/bs'
 
 const Footer = () => {
     return (
-        <footer className="fixed bottom-0 bg-grayish-dark-blue w-full py-14 sm:py-6 sm:px-10    ">
+        <footer className="bg-grayish-dark-blue w-full py-14 sm:py-6 sm:px-10    ">
             <div className="wrapper flex max-sm:flex-col justify-between  items-center gap-10">
                 <nav className="flex gap-10 sm:gap-12 max-sm:flex-row items-center ">
                     <Link href='/'>
