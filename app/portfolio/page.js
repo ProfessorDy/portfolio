@@ -1,0 +1,12 @@
+export default function Portfolio() {
+    return (
+        <main className=' min-h-screen bg-very-light-grey px-8 sm:px-10'>
+            <div className="wrapper">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus iste asperiores quos quo? Quidem quaerat eveniet aut, at recusandae praesentium odit. Cupiditate aliquid nesciunt voluptates excepturi, magni aspernatur doloribus dolore ipsam sit quae recusandae sed dicta odio, distinctio, velit numquam rem veritatis repellat nulla impedit eligendi! Similique aliquam veritatis rem explicabo ipsa suscipit mollitia eos rerum, sequi in quaerat. Pariatur itaque numquam ducimus nemo, sint aut eum! Expedita rem maxime molestias, consequuntur nesciunt quis repellendus quod sequi iusto ab! Facere deserunt sunt sint commodi a sequi reprehenderit doloremque eaque vero. Nemo, aspernatur doloribus dignissimos dolor voluptas cum. Accusamus, a. Quae, reiciendis at exercitationem amet voluptatum modi nemo ad eveniet obcaecati, asperiores sint nulla ab. Beatae aspernatur exercitationem architecto, facilis molestias mollitia commodi doloremque explicabo magni, culpa ratione adipisci tenetur odit accusamus expedita. Delectus atque aliquid asperiores in consectetur, beatae fugiat illum eaque animi explicabo quasi saepe exercitationem quas corrupti! Eos molestiae ex eaque nobis, eius, quod autem modi blanditiis dolor quia repellendus neque doloribus consequatur aliquid recusandae tempora totam nihil unde perferendis qui delectus adipisci voluptatibus. Architecto officiis voluptatem voluptas! Suscipit nemo earum cumque, necessitatibus veritatis recusandae placeat fugiat libero reprehenderit! Aut commodi nulla atque minus quisquam necessitatibus! Voluptatem itaque iure dicta. Nihil reiciendis est ut excepturi quaerat aliquid non sed aliquam quos magnam! Pariatur doloremque qui libero quia quidem eaque suscipit cumque sit temporibus eveniet nostrum aut reprehenderit iusto amet nam vitae fuga totam ea aperiam, voluptas rem aspernatur accusamus! Atque delectus eius maiores deserunt impedit maxime. Iusto quam expedita consequatur laboriosam animi ipsum dolor error quidem rem. Maxime saepe ducimus necessitatibus molestiae. Vitae nihil nemo voluptatum saepe odit numquam odio. Saepe consequatur dicta sapiente quia maiores praesentium soluta nisi? Molestias, assumenda quia enim deleniti ea et eligendi iusto aspernatur optio placeat cumque explicabo, expedita, quaerat animi totam! Sed.
+                </p>
+            </div>
+
+        </main>
+    )
+}
