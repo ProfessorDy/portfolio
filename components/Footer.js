@@ -9,7 +9,7 @@ const Footer = () => {
     return (
         <footer className="bg-grayish-dark-blue w-full py-14 sm:py-6 sm:px-10    ">
             <div className="wrapper flex max-sm:flex-col justify-between  items-center gap-10">
-                <nav className="flex gap-10 sm:gap-12 max-sm:flex-row items-center ">
+                <nav className="flex gap-10 sm:gap-12 max-sm:flex-col items-center ">
                     <Link href='/'>
                         <Image src={Logo} width={76.44} height={32} alt="Portfolio Logo" className="mr-0" />
                     </Link>
