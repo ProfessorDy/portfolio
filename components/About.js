@@ -15,7 +15,22 @@ const About = () => {
                     <hr className="bg-grayish-dark-blue/20 h-px " />
                     <article className="text-grayish-dark-blue py-8 sm:py-[3.125rem]">
                         <h2 className=" font-ibarra text-[2.5rem] font-bold leading-[2.625rem] tracing-[-0.2231rem] mb-7">About Me</h2>
-                        <p className="font-normal leading-[1.875rem] opacity-80 mb-6">I’m a junior front-end developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m based in London, UK, but I’m happy working remotely and have experience in remote teams. When I’m not coding, you’ll find me outdoors. I love being out in nature whether that’s going for a walk, run or cycling. I’d love you to check out my work.</p>
+                        <div className="font-normal leading-[1.5rem] opacity-80 mb-6 space-y-3">
+                            <p>Hello, I'm a junior front-end developer based in Nigeria, passionate about crafting exceptional web experiences. My focus is on creating accessible HTML, implementing modern CSS practices, and writing clean, efficient JavaScript code. While React is my forte, I'm always eager to embrace new tools and technologies.
+                            </p>
+                            <p>
+                                Beyond the world of coding, I find joy in gaming, exploring captivating TV shows, and taking in the beauty of the outdoors. Gaming offers me immersive adventures, and I'm always up for a strategic challenge. When it comes to TV shows, I'm a dedicated binge-watcher, seeking out gripping narratives and captivating storytelling.
+                            </p>
+                            <p>
+                                Nature calls to me, and you'll often find me outside, whether it's a refreshing walk or simply breathing in the fresh air. Nigeria's natural beauty is a constant source of inspiration.
+                            </p>
+                            <p>
+                                Although I'm currently rooted in Nigeria, I'm enthusiastic about remote work opportunities and have a track record of thriving in remote team settings. In a globalized world, I believe that talent knows no borders, and I'm excited to contribute my skills to exciting projects, no matter where they may be.
+                            </p>
+                            <p>
+                                I invite you to explore my work, and I'm eager to connect with fellow tech enthusiasts who share a passion for coding, gaming, TV shows, and the great outdoors."
+                            </p>
+                        </div>
                         <Button route='/portfolio' text='go to portfolio' />
                     </article>
                     <hr className="bg-grayish-dark-blue/20 h-px" />
